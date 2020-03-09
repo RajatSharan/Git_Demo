@@ -1,7 +1,7 @@
 package com.mycompany.app;
 
 import org.testng.annotations.Test;
-
+//test
 public class AppiumTest {
 	
 	@Test
