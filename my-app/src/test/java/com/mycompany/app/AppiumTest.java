@@ -8,7 +8,7 @@ public class AppiumTest {
 	public void NativeAutomation()
 	{
 		System.out.println("This the NativeAutomation");
-		
+		//test changes
 	}
 	
 	@Test
